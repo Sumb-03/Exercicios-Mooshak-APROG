@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="957872fd-2a4e-46ee-bac4-ba1c18637f7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Arrays Week 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays Week 9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HDxKTFKJBPboSGTlDyjqwrRwP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Main/Java IntelliJ/Mooshak/ArraysWeek8"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ArraysI">
+    <configuration name="ArraysE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysE" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysF" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysG" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysH" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysI" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysI" />
+        <item itemvalue="Application.ArraysH" />
+        <item itemvalue="Application.ArraysG" />
+        <item itemvalue="Application.ArraysF" />
+        <item itemvalue="Application.ArraysE" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957872fd-2a4e-46ee-bac4-ba1c18637f7e" name="Changes" comment="" />
+      <created>1667833392658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667833392658</updated>
+      <workItem from="1667833393798" duration="51000" />
+      <workItem from="1667844208291" duration="3030000" />
+      <workItem from="1667853072840" duration="3142000" />
+      <workItem from="1667861591728" duration="3126000" />
+      <workItem from="1667896209949" duration="9835000" />
+      <workItem from="1667947233433" duration="2584000" />
+      <workItem from="1667985752700" duration="5627000" />
+      <workItem from="1667991833359" duration="667000" />
+      <workItem from="1668031344907" duration="3113000" />
+      <workItem from="1668196821226" duration="72000" />
+      <workItem from="1668433112800" duration="12000" />
+      <workItem from="1668510884748" duration="5000" />
+      <workItem from="1668514022988" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
