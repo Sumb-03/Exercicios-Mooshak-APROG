@@ -2,7 +2,159 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d57648d6-180a-45e9-b7a6-e3cca881eb6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Trabalho Pratico APROG/src/Projeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/Arrays Week 9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/out/production/Arrays Week 9/ArraysJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/out/production/Arrays Week 9/ArraysK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/out/production/Arrays Week 9/ArraysL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/out/production/Arrays Week 9/ArraysM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/src/ArraysJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/src/ArraysK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/src/ArraysL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Arrays Week 9/src/ArraysM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/ArraysWeek8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/out/production/ArraysWeek8/ArraysI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ArraysWeek8/src/ArraysI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/essentialA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/out/production/essentialA/EssentialI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek4/src/EssentialI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/EssentialWeek5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialMOutroPorAcabar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/out/production/EssentialWeek5/EssentialZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialMOutroPorAcabar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/EssentialWeek5/src/EssentialZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/Exercicio Teste Aprog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/out/production/Exercicio Teste Aprog/ExercicioTesteAprog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/Exercicio Teste Aprog/src/ExercicioTesteAprog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/IdeaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/ModularizationWeek6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/out/production/ModularizationWeek6/ModularizationI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek6/src/ModularizationI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/ModularizationWeek7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/out/production/ModularizationWeek7/ModularizationJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/out/production/ModularizationWeek7/ModularizationK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/out/production/ModularizationWeek7/ModularizationL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/out/production/ModularizationWeek7/ModularizationM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/out/production/ModularizationWeek7/ModularizationY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/src/ModularizationJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/src/ModularizationK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/src/ModularizationL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/src/ModularizationM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/ModularizationWeek7/src/ModularizationY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mooshak/out/production/IdeaProjects/EssentialI.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +169,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +185,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Main/Java IntelliJ/Mooshak/ArraysWeek8",
+    "last_opened_file_path": "C:/Main/Java IntelliJ/Trabalho Pratico APROG",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -95,6 +247,8 @@
       <workItem from="1668511542254" duration="82000" />
       <workItem from="1668512217976" duration="36000" />
       <workItem from="1668513553702" duration="464000" />
+      <workItem from="1668514282113" duration="35000" />
+      <workItem from="1668514620713" duration="19000" />
     </task>
     <servers />
   </component>
