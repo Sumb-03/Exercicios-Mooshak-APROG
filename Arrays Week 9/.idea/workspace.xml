@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d57648d6-180a-45e9-b7a6-e3cca881eb6e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/modules.xml" beforeDir="false" />
@@ -187,7 +187,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraysM">
+  <component name="RunManager" selected="Application.ArraysN">
     <configuration name="ArraysJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysJ" />
       <module name="Arrays Week 9" />
@@ -216,8 +216,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArraysN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysN" />
+      <module name="Arrays Week 9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysN" />
         <item itemvalue="Application.ArraysM" />
         <item itemvalue="Application.ArraysJ" />
         <item itemvalue="Application.ArraysL" />
@@ -250,6 +258,7 @@
       <workItem from="1668515256171" duration="277000" />
       <workItem from="1668515636104" duration="5000" />
       <workItem from="1668532249559" duration="2597000" />
+      <workItem from="1668535309420" duration="2103000" />
     </task>
     <servers />
   </component>
