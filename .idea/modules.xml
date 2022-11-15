@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays Week 9/Arrays Week 9.iml" filepath="$PROJECT_DIR$/Arrays Week 9/Arrays Week 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysWeek8/ArraysWeek8.iml" filepath="$PROJECT_DIR$/ArraysWeek8/ArraysWeek8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EssentialWeek4/EssentialWeek4.iml" filepath="$PROJECT_DIR$/EssentialWeek4/EssentialWeek4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EssentialWeek5/EssentialWeek5.iml" filepath="$PROJECT_DIR$/EssentialWeek5/EssentialWeek5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio Teste Aprog/Exercicio Teste Aprog.iml" filepath="$PROJECT_DIR$/Exercicio Teste Aprog/Exercicio Teste Aprog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios-Mooshak.iml" filepath="$PROJECT_DIR$/.idea/Exercicios-Mooshak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModularizationWeek6/ModularizationWeek6.iml" filepath="$PROJECT_DIR$/ModularizationWeek6/ModularizationWeek6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModularizationWeek7/ModularizationWeek7.iml" filepath="$PROJECT_DIR$/ModularizationWeek7/ModularizationWeek7.iml" />
+    </modules>
+  </component>
+</project>
