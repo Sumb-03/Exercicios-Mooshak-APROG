@@ -178,15 +178,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Main/Java IntelliJ/Exercicios-Mooshak/Arrays Week 9&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Main/Java IntelliJ/Exercicios-Mooshak/Arrays Week 9",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ArraysN">
     <configuration name="ArraysJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysJ" />
@@ -259,6 +259,8 @@
       <workItem from="1668515636104" duration="5000" />
       <workItem from="1668532249559" duration="2597000" />
       <workItem from="1668535309420" duration="2103000" />
+      <workItem from="1668590379576" duration="630000" />
+      <workItem from="1668591528219" duration="1497000" />
     </task>
     <servers />
   </component>

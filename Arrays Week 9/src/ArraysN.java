@@ -2,30 +2,43 @@ import java.util.Scanner;
 
 public class ArraysN {
     static Scanner sc = new Scanner(System.in);
-    static int ORDEM_MATRIZ = sc.nextInt();
-    //corrigir isto, tem q ser entre 1 e 20
+
     public static void main(String[] args) {
-        int[][] matriz = new int[ORDEM_MATRIZ][ORDEM_MATRIZ];
+        int ordemMatriz;
+        do {
+            ordemMatriz = sc.nextInt();
+        } while (ordemMatriz <= 1 || ordemMatriz > 20);
+
+        int[][] matriz = new int[ordemMatriz][ordemMatriz];
+
         criarMatrizQuadrada(matriz);
         calcularDiagonaisDireitaParaEsquerda(matriz);
     }
+
     private static void criarMatrizQuadrada(int[][] matriz) {
-        for (int i = 0; i < ORDEM_MATRIZ; i++) {
-            for (int j = 0; j < ORDEM_MATRIZ; j++) {
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz.length; j++) {
                 matriz[i][j] = sc.nextInt();
             }
         }
     }
-    
-    private static void calcularDiagonaisDireitaParaEsquerda(int[][] matriz){
-        //for (int i = 0; i < (2*ORDEM_MATRIZ -1); i++) {
-            for (int x = 0; x < ORDEM_MATRIZ; x++) {
-                for (int y = ORDEM_MATRIZ-1; y >= 0; y--) {
-                    System.out.printf(" [%d] ", matriz[x][y]);
-                }
-                System.out.println();
+
+    private static void calcularDiagonaisDireitaParaEsquerda(int[][] matriz) {
+        for (int x = matriz.length - 1; x >= 0; x--) {
+            int linha = 0;
+            for (int y = x; y <= matriz.length - 1; y++) {
+                System.out.printf("[%d]", matriz[linha][y]);
+                linha++;
             }
-            
-        //}
+            System.out.println();
+        }
+        for (int x = 1; x < matriz.length; x++) {
+            int linha = x;
+            for (int y = 0; y < matriz.length - x; y++) {
+                System.out.printf("[%d]", matriz[linha][y]);
+                linha++;
+            }
+            System.out.println();
+        }
     }
 }
