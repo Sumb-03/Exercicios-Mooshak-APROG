@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d57648d6-180a-45e9-b7a6-e3cca881eb6e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mooshak/.idea/modules.xml" beforeDir="false" />
@@ -183,7 +182,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Main/Java IntelliJ/Exercicios-Mooshak/Arrays Week 9",
+    "last_opened_file_path": "C:/Main/Java IntelliJ/Trabalho-Pratico-Aprog",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -260,7 +259,8 @@
       <workItem from="1668532249559" duration="2597000" />
       <workItem from="1668535309420" duration="2103000" />
       <workItem from="1668590379576" duration="630000" />
-      <workItem from="1668591528219" duration="1497000" />
+      <workItem from="1668591528219" duration="1967000" />
+      <workItem from="1668593528504" duration="12000" />
     </task>
     <servers />
   </component>
