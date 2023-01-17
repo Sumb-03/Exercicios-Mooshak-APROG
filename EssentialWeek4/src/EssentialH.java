@@ -10,7 +10,7 @@ public class EssentialH {
         primo = true;
 
 
-        for (int i = 2; i < numero/2; i++) {
+        for (int i = 2; i <= numero/2; i++) {
 
             if (numero % i == 0) {
                 primo = false;
