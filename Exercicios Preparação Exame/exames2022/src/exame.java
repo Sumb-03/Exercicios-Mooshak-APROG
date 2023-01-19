@@ -1,3 +1,5 @@
+import com.sun.security.jgss.GSSUtil;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -10,6 +12,7 @@ public class exame {
         System.out.printf("Música com o preço mais elevado: %s%n", findMostExpensiveMusic(musics, info));
         System.out.printf("Maior diferença de duração entre músicas: %.2fs%n", calculateBiggestDifference(info));
         writeToFile(musics, info);
+
     }
 
     private static String findMostExpensiveMusic(String[] musicas, double[][] info) {
@@ -24,16 +27,22 @@ public class exame {
     }
 
     private static void sort(String[] musicas, double[][] info) {
-        double aux;
-        for (int i = 0; i < info.length; i++) {
-            aux = info[i][0];
+        double[] aux;
+        String auxString;
+        for (int i = 0; i < info.length - 1; i++) {
+            aux = info[i];
+            auxString = musicas[i];
             if (info[i][0] > info[i + 1][0]) {
-                info[i][0] = info[i + 1][0];
-                info[i + 1][0] = aux;
+                info[i] = info[i + 1];
+                info[i + 1] = aux;
+                musicas[i] = musicas[i + 1];
+                musicas[i + 1] = auxString;
             } else if (info[i][0] == info[i + 1][0]) {
                 if (musicas[i].compareTo(musicas[i + 1]) > 0) {
-                    info[i][0] = info[i + 1][0];
-                    info[i + 1][0] = aux;
+                    info[i] = info[i + 1];
+                    info[i + 1] = aux;
+                    musicas[i] = musicas[i + 1];
+                    musicas[i + 1] = auxString;
                 }
             }
         }
