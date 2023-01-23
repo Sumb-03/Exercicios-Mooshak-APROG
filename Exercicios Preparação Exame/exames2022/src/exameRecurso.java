@@ -21,7 +21,7 @@ public class exameRecurso {
         String nomeficheiro = "Exercicios Preparação Exame/exames2022/xadrez1a6.txt";
         File ficheiro = new File(nomeficheiro);
         Scanner sc = new Scanner(ficheiro);
-        String [] temp = new String[1];
+        String [] temp;
 
         for (int i = 0; i < jogos.length; i++) {
             temp = sc.nextLine().split(",");
