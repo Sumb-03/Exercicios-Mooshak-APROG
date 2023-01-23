@@ -34,12 +34,13 @@ public class exameRecurso {
     }
 
     private static String getTheMostVictoriousMonth(String[] meses, int[][] jogos) {
-        int maxVitorias = jogos[0][0];
         int posicaoMax = 0;
+        double percentagemVitoriasMaior = (double) jogos[0][1] / jogos[0][0], percentagemVitoriasTemp;
 
         for (int i = 1; i < jogos.length; i++) {
-            if (jogos[i][0] > maxVitorias) {
-                maxVitorias = jogos[i][0];
+            percentagemVitoriasTemp = (double) jogos[i][1] / jogos[i][0];
+            if (percentagemVitoriasTemp > percentagemVitoriasMaior) {
+                percentagemVitoriasMaior = percentagemVitoriasTemp;
                 posicaoMax = i;
             }
         }
