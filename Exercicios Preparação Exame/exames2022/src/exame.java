@@ -18,6 +18,7 @@ public class exame {
         double precoMax = info[0][1];
         for (int i = 1; i < info.length; i++) {
             if (precoMax <= info[i][1]) {
+                precoMax = info[i][1];
                 posicaoarray = i;
             }
         }
