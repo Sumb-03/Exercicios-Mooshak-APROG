@@ -21,13 +21,13 @@ public class exameRecurso {
         String nomeficheiro = "Exercicios Preparação Exame/exames2022/xadrez1a6.txt";
         File ficheiro = new File(nomeficheiro);
         Scanner sc = new Scanner(ficheiro);
-        String [] temp;
+        String[] temp;
 
         for (int i = 0; i < jogos.length; i++) {
             temp = sc.nextLine().split(",");
             meses[i] = temp[0];
             for (int x = 0; x < jogos[0].length; x++) {
-                jogos[i][x] = Integer.parseInt(temp[x+1]);
+                jogos[i][x] = Integer.parseInt(temp[x + 1]);
             }
         }
         sc.close();
